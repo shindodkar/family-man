@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
-<
+
 
 ## Getting Started
 
